@@ -1,0 +1,1 @@
+import{u as s,b as n}from"./vue-router.9966525b.js";import{f as u,d as a,X as c}from"./@vue.3182ba0d.js";const i=u({setup(p){const r=s(),t=n();return a(()=>{const{params:o}=r,{originUrl:e}=c(o);t.replace(e)}),(o,e)=>null}});export{i as default};

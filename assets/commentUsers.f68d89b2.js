@@ -1,0 +1,1 @@
+import{g as t,p as r}from"./index.3fa5d1e3.js";const a=async()=>await t("getCommentUsers"),o=async e=>await t("deleteCommentUser",e),m=async e=>await r("deleteManyCommentUsers",e),c=async e=>await r("getUserInfo",e);export{a,o as b,m as d,c as g};

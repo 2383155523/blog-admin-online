@@ -1,0 +1,1 @@
+import{g as e,p as t}from"./index.3fa5d1e3.js";const n=async s=>await t("addClassify",s),i=async()=>await e("getClassify"),c=async s=>await t("getClassifyArticleList",s),y=async s=>await e("deleteClassify",s),l=async s=>await t("deleteManyClassify",s),o=async s=>await t("updateClassify",s);export{n as a,y as b,c,l as d,i as g,o as u};

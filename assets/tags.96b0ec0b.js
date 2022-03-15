@@ -1,0 +1,1 @@
+import{g as e,p as t}from"./index.3fa5d1e3.js";const n=async a=>await t("addTag",a),c=async()=>await e("getTags"),g=async a=>await e("deleteTag",a),o=async a=>await t("deleteManyTags",a),T=async a=>await t("updateTagName",a),d=async a=>await e("getTagArticleList",a);export{n as a,g as b,d as c,o as d,c as g,T as u};
